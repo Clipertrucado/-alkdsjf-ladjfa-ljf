@@ -1,0 +1,14 @@
+C:\Users\csi23-salflet\source\repos\pinpanpun\bin\Debug\net6.0\pinpanpun.exe
+C:\Users\csi23-salflet\source\repos\pinpanpun\bin\Debug\net6.0\pinpanpun.deps.json
+C:\Users\csi23-salflet\source\repos\pinpanpun\bin\Debug\net6.0\pinpanpun.runtimeconfig.json
+C:\Users\csi23-salflet\source\repos\pinpanpun\bin\Debug\net6.0\pinpanpun.dll
+C:\Users\csi23-salflet\source\repos\pinpanpun\bin\Debug\net6.0\pinpanpun.pdb
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.AssemblyInfoInputs.cache
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.AssemblyInfo.cs
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.csproj.CoreCompileInputs.cache
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.dll
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\refint\pinpanpun.dll
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.pdb
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\pinpanpun.genruntimeconfig.cache
+C:\Users\csi23-salflet\source\repos\pinpanpun\obj\Debug\net6.0\ref\pinpanpun.dll
